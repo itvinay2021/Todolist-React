@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Todolist-React/static/css/main.fb1b7605.css",
+    "main.js": "/Todolist-React/static/js/main.95410b3d.js",
+    "static/js/787.354b4067.chunk.js": "/Todolist-React/static/js/787.354b4067.chunk.js",
+    "static/media/todoimg.jpg": "/Todolist-React/static/media/todoimg.90f3322b4ba6251bb5a7.jpg",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/Todolist-React/static/media/Quicksand-VariableFont_wght.cf52df73d8529b4815ed.ttf",
+    "static/media/Quicksand-Regular.ttf": "/Todolist-React/static/media/Quicksand-Regular.04b11c8f0d4d58c1bed1.ttf",
+    "static/media/Quicksand-Medium.ttf": "/Todolist-React/static/media/Quicksand-Medium.e7f9096c960074f84b6c.ttf",
+    "static/media/Quicksand-SemiBold.ttf": "/Todolist-React/static/media/Quicksand-SemiBold.80ffdcf8e73fc889b11f.ttf",
+    "static/media/Quicksand-Light.ttf": "/Todolist-React/static/media/Quicksand-Light.a7f8083e8b93da348dcc.ttf",
+    "static/media/Quicksand-Bold.ttf": "/Todolist-React/static/media/Quicksand-Bold.a0a11318dd0b528da77d.ttf",
+    "index.html": "/Todolist-React/index.html",
+    "main.fb1b7605.css.map": "/Todolist-React/static/css/main.fb1b7605.css.map",
+    "main.95410b3d.js.map": "/Todolist-React/static/js/main.95410b3d.js.map",
+    "787.354b4067.chunk.js.map": "/Todolist-React/static/js/787.354b4067.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1b7605.css",
+    "static/js/main.95410b3d.js"
+  ]
+}
